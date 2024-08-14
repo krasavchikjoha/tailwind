@@ -5,5 +5,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  purge: ["./src/components/**/*.{js,jsx}", "./index.html"],
+  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./index.html"],
 };
